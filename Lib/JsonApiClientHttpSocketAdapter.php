@@ -1,4 +1,17 @@
 <?php
+/**
+ * JsonApiClient support for CakePHP
+ *
+ * ONZRA: Enterprise Development
+ * Copyright 2012, ONZRA LLC (http://www.ONZRA.com)
+ *
+ * Licensed under The MIT License
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright 2012, ONZRA LLC (http://www.ONZRA.com)
+ * @link          https://github.com/onzra/CakeJsonApiClient CakeJsonApiClient
+ * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
+ */
 
 App::uses('HttpSocket', 'Network/Http');
 
