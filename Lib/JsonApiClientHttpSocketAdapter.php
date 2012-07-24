@@ -14,6 +14,7 @@
  */
 
 App::uses('HttpSocket', 'Network/Http');
+App::uses('JsonApiClientConnectionInterface', 'JsonApiClient.Lib');
 
 /**
  * Provides HTTP support to Json Api Clients.  Handles authentication and
